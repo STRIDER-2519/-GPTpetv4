@@ -1,0 +1,89 @@
+{
+  "reviewer": "a",
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A的嘴鼻位置偏在脸部右侧，右侧面颊轮廓较短，左侧面颊露出较多；B的嘴鼻偏左，右侧面颊露出较多。"
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A的面部开口、鼻嘴和下巴偏向画面左边，左眼更靠近侧轮廓；B的鼻嘴和下巴偏向右边，脸部朝右。"
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A呈明显左向侧脸，鼻嘴贴近左侧脸缘，右侧面颊较宽；B呈右向侧脸，鼻嘴贴近右侧脸缘。"
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A的鼻嘴突出在画面右侧，脸缘与下巴朝右；B的鼻嘴及下巴突出在左侧，另一侧面颊露出更多。"
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A虽低头，脸部与鼻嘴仍偏向左侧，右面颊较宽；B的鼻嘴位于右侧脸缘，右向侧脸清楚。"
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A的眼鼻嘴整体稍偏右，左面颊可见面积较大；B的鼻嘴偏左，右侧面颊和耳侧轮廓更明显。"
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "两者都低头。A的鼻嘴及下巴略偏右，左眼到左脸缘的距离较大；B的鼻嘴略偏左，右面颊露出较多。"
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A的脸部向上展开，眼睛位置较高，嘴和下巴正面清楚；B的头顶与额发占比更大，眼睛被压在额发下方，脸部朝下。"
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A可见较多头顶和垂下的额发，双眼低垂，嘴部较收缩；B眼睛睁开且面部抬起，嘴及下巴正面露出。"
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A的眼鼻嘴随脸部向上抬，面颊与下巴展开；B的额发下垂更明显，眼睛落在头部较低位置，下巴向身体收近。"
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "A和B都明显朝画面右侧，侧脸的眼、鼻、嘴可以辨认，但抬头或低头的线索很弱；下巴和额头的可见变化不足以分别确认上下方向。"
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A面部抬起，双眼大而向上展开，嘴与下巴露出；B头顶更突出，额发覆盖更多眼上区域，眼睛与嘴下压，呈低头。"
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A的额发与头顶占比大，眼睛低垂，脸和下巴朝身体收；B脸部抬高，眼鼻嘴集中在较高位置，面颊和下巴正面清楚。"
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A眼睛位于垂下额发下方，脸部朝下收拢，嘴较难看清；B面颊抬起，眼睛睁开，鼻嘴和下巴朝上展开。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source_atlas_sha256": "4f9c539c37b23467130ca3f49ede4764e24c374c2004bdd2f19cbb2cc0658c81",
+  "all_frames_from_final_encoded_atlas": true,
+  "all_states": {
+    "frames": 171,
+    "duration_ms": 26520
+  },
+  "native_idle_jump3_idle": {
+    "frames": 27,
+    "duration_ms": 15720
+  },
+  "look_loop": {
+    "frames": 16,
+    "duration_ms": 2560
+  },
+  "stills": 6
+}

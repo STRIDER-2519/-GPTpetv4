@@ -1,0 +1,23 @@
+{
+  "version": "v4",
+  "atlas_sha256": "4f9c539c37b23467130ca3f49ede4764e24c374c2004bdd2f19cbb2cc0658c81",
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "required_frames": 73,
+  "unused_transparent_cells": 15,
+  "structural_validation_passed": true,
+  "pets_preflight_valid": true,
+  "quality_gate_passed": true,
+  "independent_blind_reviewers": 3,
+  "blind_cardinals_passed": true,
+  "reviewed_warnings": [
+    "112.5方向低头幅度较轻：两位盲评审阅者判断纵轴不明确；标注连续序列复核确认向右下变化，保留为中间角度提示。",
+    "157.5→180的像素差异为局部离群；人工复核为回正低头的变化，位置与体积稳定。"
+  ],
+  "preview_source": "Exact final encoded PNG",
+  "native_hover_live_test_performed": false,
+  "known_host_rules_version": "26.1007.2314.0",
+  "cloud_update": "Existing owned custom pet updated successfully; stable identity and active selection verified. Account identifiers omitted."
+}

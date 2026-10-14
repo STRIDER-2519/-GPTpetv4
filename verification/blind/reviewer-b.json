@@ -1,0 +1,89 @@
+{
+  "reviewer": "b",
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 的鼻口偏向画面右侧，左侧面颊和眼睛更完整；B 的鼻口偏向画面左侧，右侧面颊和眼睛更完整。"
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A 的脸部伸向画面左侧，左边眼睛较窄，右边眼睛和面颊更完整；B 的脸部伸向画面右侧，左边眼睛和面颊更完整。"
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A 的鼻口和面部轮廓朝左，右侧眼睛明显、左侧眼睛受遮挡；B 的鼻口和面部轮廓朝右，左侧眼睛明显、右侧眼睛较窄。"
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 的鼻口靠面部右缘，左眼和左面颊可见范围较大；B 的鼻口靠面部左缘，右眼和右面颊可见范围较大。"
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A 虽有低头，但鼻口仍向左偏，右侧眼睛和面颊较完整；B 的鼻口向右偏，左眼及左面颊较完整。"
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 的低垂脸部向右偏，左眼较大，鼻口位于两眼中点右侧；B 的低垂脸部向左偏，右眼较大，鼻口位于两眼中点左侧。"
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A 的脸被刘海部分遮住，但鼻口和可见面颊向右偏；B 的鼻口和可见面颊向左偏，右侧眼睛的可见面积更大。"
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A 的双眼及鼻口向上展开，下巴抬起且脸颊露出较多；B 的刘海压到眼睛上方，眼睛位于较低处，下巴收向胸前。"
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的眼睛受下垂刘海遮挡，鼻口低垂、下巴靠近领口；B 的眼睛更充分露出，鼻口和面颊抬高，下巴远离领口。"
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A 的侧脸鼻口抬起，眼睛和下方脸颊较充分露出；B 的刘海覆盖到眼睛，鼻口及下巴降低，面部更靠近胸前。"
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "ambiguous",
+      "reason": "A 的侧脸鼻口抬起、眼睛露出较多，呈轻微仰头；B 的眼睛和鼻口稍低，但侧向轮廓占主导，刘海与下巴没有足够明确的俯仰证据。"
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A 的双眼向上露出、脸颊展开，下巴抬起；B 的头部压低，刘海遮眼，鼻口和下巴靠近领口。"
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的刘海垂到眼睛，鼻口向胸前收，下巴低；B 的眼睛位于较高处且露出完整，鼻口抬高、侧面下巴扬起。"
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A 的眼睛被刘海压住，鼻口低垂、脸靠近胸前；B 的眼睛较完整露出，鼻口和面颊向上抬，下巴扬起。"
+    }
+  ]
+}
